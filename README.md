@@ -7,7 +7,7 @@ You can know more about Sublime Text [here](https://www.sublimetext.com/).
 
 ![Unicorn](unicorn.jpg)
 
-After installing, your Sublime Text should look like this. Cute. I know.
+After installing, your Sublime Text should look like this. Then you can enjoy your new color scheme.
 
 ## How to install it
 
